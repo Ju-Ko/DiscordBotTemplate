@@ -1,0 +1,15 @@
+{
+  "client-secret": "",
+  "client-id": 0,
+  "token": "",
+  "application-id": 0,
+  "public-key": "",
+  "test-guild": 0,
+  "owners": [],
+  "bot-testing": 0,
+  "prefix": {
+    "Windows": ",",
+    "Linux": "-",
+    "std": ""
+  }
+}
